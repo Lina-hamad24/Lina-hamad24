@@ -1,6 +1,6 @@
 # Hi, I'm Lina Hamad 👋
 
-I like building AI systems where the model is only part of the solution — from computer vision and image-based measurement to RAG pipelines and agents that use external tools. Most of my work is in Python, connecting models, data, and APIs into applications that can be tested and deployed.
+I like building AI systems where the model is only part of the solution. From computer vision and image-based measurement to RAG pipelines and agents that use external tools. Most of my work is in Python, connecting models, data, and APIs into applications that can be tested and deployed.
 
 ## Socials
 
